@@ -14,7 +14,7 @@ file1 = open(args.f)
 readfile = file1.read()
 
 if password in readfile: 
-    print('Your Password is vulnerable against brute force!!')
+    print('Your Password is in the Dictionary!!')
 else: 
     print('Password Not Found') 
 
