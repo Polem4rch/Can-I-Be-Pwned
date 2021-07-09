@@ -13,12 +13,12 @@ NIST SP 800-101 Rev. 1
 
 
 
-If the attacked system has no protection against this type of attacks and your password is listed in the used dictionary, any attacker will access your account.
+If the attacked system has no protection against this type of attack and your password is listed in the used dictionary, any attacker will access your account.
 
 Please use this tool in your systems, for your eyes only.
 
 Usage: python3 canibepwned.py -f dictionary file.txt -p password
 
-For Dictionaries, including leaked databases please reffer to:
+For Dictionaries, including leaked databases please refer to:
 
 https://github.com/danielmiessler/SecLists/tree/master/Passwords
