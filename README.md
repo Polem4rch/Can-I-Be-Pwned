@@ -1,5 +1,5 @@
 
-![](images/Can I be pwned_2.png)
+![](images/cibp.png)
 
 # Can-I-Be-Pwned
 Check if your password is in a Dictionary.
